@@ -1,0 +1,1 @@
+# qc_strategy_doc
