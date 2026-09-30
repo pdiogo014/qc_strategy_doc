@@ -1,5 +1,3 @@
-# qc_strategy_doc
-
 # Stock Split Event Strategy
 
 A backtested trading strategy that trades stock split announcements, built and tested on QuantConnect (2019 to 2025).
