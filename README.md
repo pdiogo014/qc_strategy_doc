@@ -4,7 +4,7 @@ A backtested trading strategy that trades stock split announcements, built and t
 
 ## Contents
 
-- `Stock_Split_Strategy_Documentation.pdf`: the full write up with method, results, market exposure analysis and limitations.
+- `Stock_Split_Strategy_Documentation_Public.pdf`: the full write up with method, results, market exposure analysis and limitations.
 
 The code is kept private and can be shared on request.
 
